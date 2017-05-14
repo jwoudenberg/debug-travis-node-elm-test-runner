@@ -11,8 +11,8 @@ cache:
     - sysconfcpus
 
 os:
-  # - linux
-  - osx
+  - linux
+  # - osx
 
 env:
   matrix:
