@@ -1,0 +1,19 @@
+{
+  "name": "debug-travis-node-elm-test-runner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "elm-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwoudenberg/debug-travis-node-elm-test-runner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwoudenberg/debug-travis-node-elm-test-runner/issues"
+  },
+  "homepage": "https://github.com/jwoudenberg/debug-travis-node-elm-test-runner#readme"
+}
